@@ -3,3 +3,5 @@
 "# HBTimestamp" 
 "# HB_FirstLevel_Cache" 
 "# HB_FirstLevel_Cache" 
+"# HB_ConnectionPool_Built_In" 
+"# HB_ConnectionPool_Built_In" 
